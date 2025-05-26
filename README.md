@@ -1,5 +1,7 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
-👋Hi, I'm Claudiu Cozma<br>👨‍💻I'm currently working as a Cloud Engineer at Alterna<br>🌱I'm currently learning Azure/AWS Cloud<br>🤝Looking to connect and collaborate with other learners and practitioners working with AWS and Azure Cloud platforms<br>☁️Fun Fact: Cloud computing powers everything from Netflix streaming to your smart thermostat. So next time your show buffers, blame the cloud (just a little)!<br>
+👋Hi, I'm Claudiu Cozma<br>👨‍💻I'm currently working as a Cloud Engineer at <a href="https://alternanet.it/" Alterna>  <br>🌱I'm currently learning Azure/AWS Cloud<br>🤝Looking to connect and collaborate with other learners and practitioners working with AWS and Azure Cloud platforms<br>☁️Fun Fact: Cloud computing powers everything from Netflix streaming to your smart thermostat. So next time your show buffers, blame the cloud (just a little)!<br>
 
 
 ## 🌐 Socials:
