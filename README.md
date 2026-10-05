@@ -1,10 +1,12 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-👋Hello World! I'm Claudiu Cozma<br>👨‍💻I'm currently working as a Solution Engineer at <a href="https://www.interroll.com/"> Interroll</a>  <br>
-🌱I am currently engaged in professional development focused on Azure, M365 and Purview solutions <br>
-🤝Looking to connect and collaborate with other learners and practitioners working with Azure Cloud platforms<br>
-☁️Fun Fact: Cloud computing powers everything from Netflix streaming to your smart thermostat. So next time your show buffers, blame the cloud (just a little)!<br>
+👋Hello World! I'm Claudiu Cozma <br>
+👨‍💻Solution Engineer in Corporate IT at <a href="https://www.interroll.com/"> Interroll</a>  <br>
+🔐Specialized in Microsoft 365, Azure, Security & Compliance, and Digital Workplace solutions <br>
+🛡️Focused on Microsoft Purview, Identity & Access Management, Data Protection, and AI Governance <br>
+🌱Continuously learning and exploring cloud technologies, automation, cybersecurity, and responsible AI <br>
+🚀Passionate about transforming business needs into secure, scalable, and user-centric solutions <br>
 
 
 ## 🌐 Socials:
